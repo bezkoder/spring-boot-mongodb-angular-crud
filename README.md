@@ -1,9 +1,9 @@
-# Angular 11 + Spring Boot + MongoDB: Build CRUD example
+# Spring Boot + MongoDB + Angular: Build a CRUD example
 
 For more details, please visit:
 [https://bezkoder.com/angular-11-spring-boot-mongodb/](https://bezkoder.com/angular-11-spring-boot-mongodb/)
 
-In this tutorial, we will learn how to build a full stack Angular 11 + Spring Boot + MongoDB example with a CRUD App. The back-end server uses Spring Boot with Spring Web MVC for REST Controller and Spring Data JPA for interacting with MongoDB database. Front-end side is made with Angular 11, HTTPClient & Router.
+In this tutorial, we will learn how to build a full stack Spring Boot + MongoDB + Angular 11 example with a CRUD App. The back-end server uses Spring Boot with Spring Web MVC for REST Controller and Spring Data JPA for interacting with MongoDB database. Front-end side is made with Angular 11, HTTPClient & Router.
 
 We will build a full-stack Tutorial Application in that:
 
